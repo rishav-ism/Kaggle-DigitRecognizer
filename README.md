@@ -6,7 +6,10 @@ For every ImageId in the test set, you should predict the correct label.
 
 ## Models Used are:
 
-1. Feed Fowward Network
-2. Convolutional Neural Network
-3. CNN with Data Augumentation
+1. Feed Forward Network ::: Accuracy - 97.1%
+2. Convolutional Neural Network ::: Accuracy - 98.4%
+
+
+
+
 
