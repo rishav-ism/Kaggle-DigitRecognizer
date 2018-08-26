@@ -12,7 +12,7 @@ https://www.kaggle.com/c/digit-recognizer/data
 1. Feed Forward Network ::: Accuracy - 97.1%
 2. Convolutional Neural Network ::: Accuracy - 98.4%
 
-The aim of the Notebook is to show the feasibility of CNNs for Image related tasks. The deeper the Cnn, better is the accuracy. In the notebook, we have trained to notebook for very less number of epochs. Still we are getting ~98% accuracy on our validation task. If we train them for more say 30, we can achieve an accuracy of 100%
+The aim of the Notebook is to show the feasibility of CNNs for Image related tasks. The deeper the Cnn, better is the accuracy. In the notebook, we have trained to notebook for very less number of epochs. Still we are getting ~98% accuracy on our validation set. If we train them for more say 30, we can achieve an accuracy of 100%
 
 
 
